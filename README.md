@@ -1,7 +1,7 @@
 # Creación de una base de datos con Azure Cosmos DB
 **Objetivo:** Crear una base de datos no estructurada con el recurso de Azure Cosmos DB de Azure.
 
-![](/imagenes/virtual%20machine.png)
+![](/imagenes/cosmos.png)
 
 **Requisitos**
 - Cuenta de Azure con una suscripción activa
